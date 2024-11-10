@@ -1,0 +1,30 @@
+*{
+    font: "Fira Sans", sans-serif;
+    background-color: bisque;
+}
+
+.header-text{
+   padding: 6px;
+   display: flexbox;
+}
+
+
+#side-image-background{
+   width: 300px;
+   height: 600px;
+   float: right;
+}
+
+.info-container{
+    padding: 30px 40px;
+}
+
+.radio-container{
+    padding-top: 5px;
+    padding-left: 10px;
+}
+
+#submit-button:hover{
+    cursor: pointer;
+}
+
